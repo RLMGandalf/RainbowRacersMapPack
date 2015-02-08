@@ -1,0 +1,26 @@
+{
+    "context": "client",
+    "identifier": "Guma_Guma_Slide_Map_Pack",
+    "display_name": "Guma Guma Slide Map Pack",
+    "description": "Map Pack for Guma Guma Slide.",
+    "author": "Yuri Bros",
+    "version": "1.3",
+    "build": "76766",
+    "date": "2015/01/25",
+    "signature": "not yet implemented",
+    "forum": "https://forums.uberent.com/threads/ggs-maps.67139/",
+    "category": [
+        "ui",
+		"maps"
+    ],
+    "load_planet": [
+        "coui://ui/mods/Guma_Guma_Slide_Map_Pack/maplist.js"
+    ],
+    "id": "a",
+    "icon": "http://i.imgur.com/gwUsFpG.jpg",
+    "priority": 500,
+    "enabled": true,
+    "dependencies": [
+        "com.pa.conundrum.cShareSystems"
+    ]
+}
