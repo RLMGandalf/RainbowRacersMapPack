@@ -1,5 +1,9 @@
 {
     "name": "Short Track",
+	"creator": "Gandalf",
+	"version": "1",
+	"date": "2015/02/08",
+	"description": "Easy level short track.",
     "planets": [
         {
             "name": "Paz Power Hour",

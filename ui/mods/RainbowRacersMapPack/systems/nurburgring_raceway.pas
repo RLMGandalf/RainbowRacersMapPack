@@ -1,5 +1,9 @@
 {
     "name": "Nürburgring Raceway",
+	"creator": "Gandalf",
+	"version": "1",
+	"date": "2015/02/08",
+	"description": "Longest track to date, Hard level.",
     "planets": [
         {
             "name": "BattleBear",

@@ -1,5 +1,9 @@
 {
     "name": "ELODEAS CATS",
+	"creator": "Gandalf",
+	"version": "1",
+	"date": "2015/02/08",
+	"description": "Easy Level Long track.",
     "planets": [
         {
             "name": "Mechar",

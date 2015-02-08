@@ -1,5 +1,9 @@
 {
     "name": "Metal Mania Circuit",
+	"creator": "Gandalf",
+	"version": "1",
+	"date": "2015/02/08",
+	"description": "Average track in length, medium level.",
     "planets": [
         {
             "name": "Rawr",
