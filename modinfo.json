@@ -1,23 +1,22 @@
 {
     "context": "client",
-    "identifier": "Guma_Guma_Slide_Map_Pack",
-    "display_name": "Guma Guma Slide Map Pack",
-    "description": "Map Pack for Guma Guma Slide.",
+    "identifier": "RainbowRacersMapPack",
+    "display_name": "Rainbow Racers Official Tracks",
+    "description": "Map Pack for Rainbow Racers.",
     "author": "Yuri Bros",
-    "version": "1.3",
-    "build": "76766",
-    "date": "2015/01/25",
+    "version": "1.0",
+    "build": "77725",
+    "date": "2015/02/08",
     "signature": "not yet implemented",
-    "forum": "https://forums.uberent.com/threads/ggs-maps.67139/",
-    "category": [
+	"category": [
         "ui",
 		"maps"
     ],
     "load_planet": [
-        "coui://ui/mods/Guma_Guma_Slide_Map_Pack/maplist.js"
+        "coui://ui/mods/RainbowRacersMapPack/maplist.js"
     ],
     "id": "a",
-    "icon": "http://i.imgur.com/gwUsFpG.jpg",
+    "icon": "http://i.imgur.com/626pjIy.png",
     "priority": 500,
     "enabled": true,
     "dependencies": [
